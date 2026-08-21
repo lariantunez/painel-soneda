@@ -1,5 +1,7 @@
 # Painel Soneda - Dashboard MongoDB
 
+[Abrir demo estatica do painel](https://lariantunez.github.io/painel-soneda/)
+
 Dashboard web desenvolvido para substituir analises manuais em planilhas dinamicas de Excel por uma visao centralizada de vendas, estoque e performance comercial do cliente Soneda.
 
 O painel consolida arquivos operacionais, aplica regras de tratamento e disponibiliza indicadores para leitura executiva, filtros dinamicos e acompanhamento por periodo, filial, categoria, familia e produto.
@@ -68,7 +70,7 @@ A aplicacao sobe o backend Express e serve o frontend estatico.
 
 ## Demo estatica
 
-Este repositorio tambem possui uma demo visual em `docs/index.html`, criada para GitHub Pages e portfolio. Ela usa dados ficticios embutidos no proprio HTML, sem depender de MongoDB, backend ou variaveis de ambiente.
+Este repositorio tambem possui uma demo do painel real em `docs/index.html`, criada para GitHub Pages e portfolio. Ela usa dados ficticios e uma API simulada no navegador, sem depender de MongoDB, backend ou variaveis de ambiente.
 
 ## Cuidados de portfolio
 
