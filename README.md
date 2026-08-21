@@ -66,6 +66,10 @@ npm start
 
 A aplicacao sobe o backend Express e serve o frontend estatico.
 
+## Demo estatica
+
+Este repositorio tambem possui uma demo visual em `docs/index.html`, criada para GitHub Pages e portfolio. Ela usa dados ficticios embutidos no proprio HTML, sem depender de MongoDB, backend ou variaveis de ambiente.
+
 ## Cuidados de portfolio
 
 Este repositorio foi preparado para portfolio. Bases reais, arquivos `.env`, uploads, CSVs e XLSX operacionais ficam fora do Git por seguranca e confidencialidade.
